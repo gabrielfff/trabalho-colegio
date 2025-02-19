@@ -1,0 +1,3 @@
+let monthNumber = prompt ("digite o nmero do mêS do seu aníversario");
+let mes = ["janeiro", "fevereiro", "março","abril", "maio", "junho", "julho", "agosto","setembro", "outubro","novembro", "desembro"];
+console.log ("você nasceu no mês de "+mes[monthNumber-1]);
